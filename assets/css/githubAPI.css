@@ -1,0 +1,31 @@
+#ghapidata {
+  padding:25px 0;
+}
+
+.smallname {
+  font-size:0.65em;
+}
+
+.repolist ul {
+  font-size:1.2em;
+}
+
+.repolist ul li {
+  display:inline-block;
+}
+
+.repolist ul li a {
+  padding:4px 6px;
+  float:left;
+  margin-right:10px;
+  margin-bottom:6px;
+  border:1px solid #90416e;
+  border-radius:5px;
+  color:#fffafa;
+  background-color:#af6c92;
+}
+
+.repolist ul li a:hover {
+  background-color:#daac86;
+}
+
